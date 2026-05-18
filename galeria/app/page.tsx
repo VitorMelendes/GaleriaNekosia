@@ -57,7 +57,7 @@ export default function Home() {
       {/* Header Minimalista e Elegante */}
       <header className="text-center my-12 max-w-xl">
         <h1 className="text-3xl font-light tracking-widest text-zinc-100 uppercase">
-          Galeria <span className="font-medium text-indigo-400">SUS</span>
+          Galeria <span className="font-medium text-indigo-400">Nekosia</span>
         </h1>
         <div className="h-[1px] w-12 bg-indigo-500/50 mx-auto my-4"></div>
         <p className="text-zinc-400 text-xs tracking-wide uppercase font-medium">
@@ -104,7 +104,7 @@ export default function Home() {
                 />
                 {/* Overlay sutil que aparece no hover */}
                 <div className="absolute inset-0 bg-gradient-to-t from-zinc-950/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-4">
-                  <span className="text-[10px] tracking-widest text-zinc-300 uppercase">Expandir Obra</span>
+                  <span className="text-[10px] tracking-widest text-zinc-300 uppercase"></span>
                 </div>
               </div>
               
