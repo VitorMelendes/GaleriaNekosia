@@ -1,3 +1,1 @@
-# CopadDoMundo
-
-Este é um album da copa de 2026 virtual!
+Este projeto é uma galeria em next com api do nekosia!
